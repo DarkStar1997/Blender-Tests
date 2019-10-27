@@ -1,0 +1,1 @@
+Contains my exercises for the playlist https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U
